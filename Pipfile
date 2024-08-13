@@ -1,0 +1,30 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+atlassian-python-api = "*"
+gptcache = "*"
+langchain-community = "==0.2.1"
+tiktoken = "*"
+langchainhub = "*"
+langchain = "==0.2.1"
+langgraph = "*"
+tavily-python = "*"
+langchain-openai = "*"
+langchain-core ="*"
+python-dotenv = "*"
+black = "*"
+isort = "*"
+pytest = "*"
+langchain-chroma = "*"
+grandalf = "*"
+arize-phoenix = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.11"

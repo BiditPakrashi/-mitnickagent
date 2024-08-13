@@ -1,0 +1,7 @@
+.env
+.chroma
+src/notebok
+src/graph/__pycache__
+src/graph/nodes/__pycache__
+src/graph/dataprocessing/__pycache__
+Pipfile.lock1
